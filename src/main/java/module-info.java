@@ -1,8 +1,8 @@
-module org.example.javafx_proyectobancario_david_carlos {
+module org.example.appbancariajavafx {
     requires javafx.controls;
     requires javafx.fxml;
 
 
-    opens org.example.javafx_proyectobancario_david_carlos to javafx.fxml;
-    exports org.example.javafx_proyectobancario_david_carlos;
+    opens org.example.appbancariajavafx to javafx.fxml;
+    exports org.example.appbancariajavafx;
 }

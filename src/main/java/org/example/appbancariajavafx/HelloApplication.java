@@ -1,4 +1,4 @@
-package org.example.javafx_proyectobancario_david_carlos;
+package org.example.appbancariajavafx;
 
 import javafx.application.Application;
 import javafx.fxml.FXMLLoader;

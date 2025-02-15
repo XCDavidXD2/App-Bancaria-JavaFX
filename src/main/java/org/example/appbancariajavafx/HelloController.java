@@ -1,4 +1,4 @@
-package org.example.javafx_proyectobancario_david_carlos;
+package org.example.appbancariajavafx;
 
 import javafx.fxml.FXML;
 import javafx.scene.control.Label;
